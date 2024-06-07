@@ -1,37 +1,35 @@
-# Oct7FactCheck Website
+# GitHub Issue Forms Templates
+This repository is dedicated to the development and maintenance of GitHub Issue Forms Templates, where the public can submit various requests based on the GitHub issue forms.
 
-Welcome to the Oct7FactCheck Website repository! This repository is dedicated to the development and maintenance of our fact-checking platform, where the public can submit claims for fact-checking and our team of fact-checkers works to verify their accuracy.
+## Submitting Requests
 
-## Submitting Fact-Check Requests
-
-We encourage the public to submit fact-check requests via GitHub Issues. To submit a fact-check request, follow these steps:
+To submit a request, follow these steps:
 
 
 1. Click on the [Issues](../../issues) tab.
 2. Click on the green "New issue" button.
-3. Select the "Fact-Check Request" template.
-4. Fill in the required details, including a description of the claim, its source, context, and any evidence.
+3. Select the "Request" template.
+4. Fill in the required details.
 5. Assign the appropriate priority level if applicable.
-6. Click "Submit new issue" to submit your fact-check request.
-
-Our team of fact-checkers will review your request and work on verifying the accuracy of the claim.
-
-**Note**:  You'll need a GitHub account to submit an issue. Alternatively, you can submit your request over the Discord server. [tfp-oct7factcheck](https://discord.com/channels/1186702814341234740/1195760902260142262) tagging the message with #FactCheckRequest 
+6. Click "Submit new issue" to submit your request.
 
 
-## Contributing
+**Note**:  You'll need a GitHub account to submit an issue.
 
-We welcome contributions from the community to help improve and maintain the FactCheck Website. If you're interested in contributing, please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## Issue Tracker
-
-If you encounter any bugs in the Oct7FactCheck.com website, have suggestions for improvements, please open an issue on our [Issue Tracker](../../issues).
 
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 <!-- This is commented out. 
+
+## Contributing
+
+We welcome contributions from the community to help improve and maintain the Forms. If you're interested in contributing, please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+
+## Issue Tracker
+
+If you encounter any bugs, have suggestions for improvements, please open an issue on our [Issue Tracker](../../issues).
 ##To-Do: 
 
 - Rename the project to be OpenSource FactCheck. 
